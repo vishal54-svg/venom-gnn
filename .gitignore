@@ -33,3 +33,7 @@ Thumbs.db
 .env
 .env.local
 *.log
+
+# SQLite experiment store
+*.db
+results/*.md
